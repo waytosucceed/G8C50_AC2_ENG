@@ -1,0 +1,277 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Where was Samuel Langhorne Clemens born?",
+    "options": [
+      "Hannibal, Missouri",
+      "Florida, Missouri",
+      "Mississippi",
+      "Nevada"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What event shaped Mark Twain’s early life?",
+    "options": [
+      "The Civil War",
+      "The Mississippi River",
+      "The Nevada silver rush",
+      "The gold rush"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What type of town was Hannibal described as?",
+    "options": [
+      "A quiet village",
+      "A busy port city",
+      "A mining town",
+      "A bustling river town"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which two famous novels did Twain later write, inspired by his early experiences?",
+    "options": [
+      "The Adventures of Sherlock Holmes and Tom Sawyer",
+      "Moby Dick and Tom Sawyer",
+      "The Adventures of Tom Sawyer and Adventures of Huckleberry Finn",
+      "The Great Gatsby and Huckleberry Finn"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What career did Twain pursue due to his fascination with the river?",
+    "options": [
+      "A steamboat pilot",
+      "A fisherman",
+      "A riverboat cook",
+      "A sailor"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which historical event had the biggest impact on Twain’s life during his early career?",
+    "options": [
+      "The Industrial Revolution",
+      "The Civil War",
+      "The Gold Rush",
+      "The creation of the railroad"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "What does the phrase 'mark twain' symbolise in relation to Twain’s life?",
+    "options": [
+      "His ability to navigate the river safely",
+      "His journey through the Civil War",
+      "His mining efforts",
+      "His adventure as a writer"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "How does Twain’s experience as a steamboat pilot contribute to his literary works?",
+    "options": [
+      "It gave him ideas for historical events",
+      "It inspired the creation of his river-based novels",
+      "It helped him understand war",
+      "It taught him about mining techniques"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which of the following best describes Twain’s life after moving to Nevada?",
+    "options": [
+      "He became a successful farmer",
+      "He focused on mining",
+      "He worked as a riverboat captain",
+      "He wrote for newspapers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What does the text reveal about Twain’s views on war?",
+    "options": [
+      "He was eager to fight in it",
+      "He found it exciting",
+      "He was uncomfortable with the violence and chaos",
+      "He supported the Confederate cause"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What is the overall theme of the passage?",
+    "options": [
+      "The impact of the Civil War on individual lives",
+      "The importance of war in Twain's writing",
+      "The transformation from childhood dreams to literary success",
+      "The decline of the Mississippi River"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What is the main characteristic of non-fiction?",
+    "options": [
+      "It tells imaginary stories",
+      "It is based on real facts and events",
+      "It is a type of poetry",
+      "It includes made-up characters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which of the following is an example of non-fiction?",
+    "options": [
+      "Harry Potter and the Sorcerer's Stone",
+      "The Diary of Anne Frank",
+      "The Lion, the Witch, and the Wardrobe",
+      "The Hobbit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which of the following is a feature of non-fiction texts?",
+    "options": [
+      "It includes invented characters",
+      "It always includes a fictional setting",
+      "It is only written in the first person",
+      "It contains real facts and evidence"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which non-fiction genre would you expect to include real statistics and factual evidence?",
+    "options": [
+      "Persuasive writing",
+      "Narrative non-fiction",
+      "Expository writing",
+      "Fictional writing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What is a memoir?",
+    "options": [
+      "A fictional story about an adventure",
+      "A non-fiction account of the author's personal experiences",
+      "A biography written by someone else",
+      "A report on a scientific discovery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which of the following is not typically considered non-fiction?",
+    "options": [
+      "A newspaper article",
+      "An autobiography",
+      "A fantasy novel",
+      "A documentary film"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What type of non-fiction would a biography fall under?",
+    "options": [
+      "Narrative non-fiction",
+      "Expository non-fiction",
+      "Persuasive non-fiction",
+      "Informational non-fiction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of these is an example of informational non-fiction?",
+    "options": [
+      "A novel",
+      "A news article",
+      "A fairy tale",
+      "A poem"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What is the purpose of expository non-fiction?",
+    "options": [
+      "To entertain the reader",
+      "To persuade the reader",
+      "To explain or inform about a subject",
+      "To create fictional characters"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Which of the following best describes a feature of a persuasive non-fiction text?",
+    "options": [
+      "It explains a topic with facts",
+      "It tells a true story from someone’s life",
+      "It tries to convince the reader to agree with the author's point of view",
+      "It gives detailed information about how something works"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Which genre of non-fiction focuses on teaching how to do something?",
+    "options": [
+      "Biography",
+      "How-to guide",
+      "News article",
+      "Essay"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "What is an example of persuasive non-fiction?",
+    "options": [
+      "A letter to the editor of a newspaper",
+      "A travel brochure",
+      "A historical documentary",
+      "A textbook on biology"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "What does the word 'confederate' mean in the context of a 'confederate militia'?",
+    "options": [
+      "A group of people who are working together for a common goal",
+      "A peaceful gathering of friends",
+      "A government body in charge of laws",
+      "A person who provides services in a city"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "What does the word 'illustrious' mean?",
+    "options": [
+      "Ordinary or average",
+      "Famous and respected",
+      "Weak and unimportant",
+      "Unknown and unnoticed"
+    ],
+    "correct": 1
+  }
+]
